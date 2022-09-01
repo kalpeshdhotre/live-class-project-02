@@ -21,4 +21,4 @@
 ## Below is screenshot of webpage 
 <br>
 
-![Screenshot of project 1](./screenshot.jpeg)
+![Screenshot of project 1](./Screenshot.jpeg)
