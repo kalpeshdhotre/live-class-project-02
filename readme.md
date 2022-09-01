@@ -11,3 +11,14 @@
 
 > ## Time to complete this project 
 > # <font color="Yellow">**6 Hrs**</font>
+
+## **By : Kalpesh K Dhotre**
+<br>
+
+### [🌏 Deployed link](https://kd-project-02.netlify.app/)
+<br>
+
+## Below is screenshot of webpage 
+<br>
+
+![Screenshot of project 1](./screenshot.jpeg)
